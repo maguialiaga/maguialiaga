@@ -9,7 +9,7 @@
 - 🔭 I’m working remotely from Cordoba, Argentina. Currently i find myself working on getting more experience in the IT world and gathering the best tools to my stack  
   
 
- ✨**Some of my goals this year are:**✨
+ **✨Some of my goals this year are:✨**
 
 - Continue learning and training my frontend dev skills
 
