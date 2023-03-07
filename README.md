@@ -3,16 +3,30 @@
 </div>  
   
 
-### <div align="center">I'm Maggie, Full Stack web developer 👨‍💻  Passionate about detail and design 🖌️ I'm constantly learning about how to build quality web pages and to generate better configurations 🚀</div>  
+### <div align="center">I'm Maggie, Full Stack web developer & Industrial Designer 👨‍💻  Passionate about detail and design 🖌️ I'm constantly learning about how to build quality web pages and to generate better configurations 🚀</div>  
   
 
 - 🔭 I’m working remotely from Cordoba, Argentina. Currently i find myself working on getting more experience in the IT world and gathering the best tools to my stack  
   
 
-- 🌱 I’m currently learning and training my abilities in frontend dev, as i seek for a new job where i can share all my experience and skills   
+- 🌱- **Some of my goals this year are:**
+
+✨Continue learning and training my frontend dev skills
+
+✨Work on my portfolio
+
+✨Meet new people with whom
+I can learn and share all experiences and skills
+
+✨Create new apps
+
+✨Find a job that relates to me and my design aspirations.
+
+✨Find a job that is challenging
+    
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to PERN stack and related technologies  
   
 
 - ⚡ Fun fact: I ❤️ 🐶s & traveling to new places   
