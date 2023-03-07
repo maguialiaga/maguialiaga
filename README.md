@@ -20,16 +20,16 @@ I can learn and share all experiences and skills
 
 ✨Create new apps
 
-✨Find a job that relates to me and my design aspirations.
+✨Get a job that relates to me and my design aspirations
 
-✨Find a job that is challenging
+✨Get a job that is challenging
     
   
 
 - ❓ Ask me about anything related to PERN stack and related technologies  
   
 
-- ⚡ Fun fact: I ❤️ 🐶s & traveling to new places   
+- 😜 Fun fact: I ❤️ 🐶s & traveling to new places   
   
 
 <br/>  
