@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Maggie, Full Stack web developer & Industrial Designer 👨‍💻  Passionate about detail and design 🖌️ I'm constantly learning about how to build quality web pages and to generate better configurations 🚀</div>  
+### <div align="center">I'm Maggie, Full Stack web developer & Industrial Designer 👨‍💻  Passionate about detail and design 🖌️ I'm constantly learning about how to build quality web pages and to generate better user interfaces 🚀</div>  
   
 
 - 🔭 I’m working remotely from Cordoba, Argentina. Currently i find myself working on getting more experience in the IT world and gathering the best tools to my stack  
