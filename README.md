@@ -31,6 +31,8 @@ I can learn and share all experiences and skills
 
 - 😜 Fun fact: I ❤️ 🐶s & traveling to new places   
   
+  
+  **CONTACT ME BY EMAIL--> aliaga.magdalena1@gmail.com**
 
 <br/>  
 
