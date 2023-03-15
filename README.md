@@ -11,7 +11,7 @@
 
  **✨Some of my goals this year are:✨**
 
-- Continue learning and training my frontend dev skills
+- Continue to learn and train my frontend dev skills
 
 - Work on my portfolio
 
