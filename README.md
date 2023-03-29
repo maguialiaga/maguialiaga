@@ -3,12 +3,14 @@
 </div>  
   
 
-### <div align="left">I'm Maggie, Full Stack web developer & Industrial Designer 👨‍💻  Passionate about detail and design 🖌️ I'm constantly learning how to build quality web pages and how to generate better user interfaces 🚀</div>  
+### <div align="left">I'm Maggie, Full Stack web developer & Industrial Designer 👨‍💻 
+  Passionate about detail and design 🖌️ 
+  I'm constantly learning how to build quality web pages and how to generate better user interfaces 🚀</div>  
   
 
 - 🔭 I’m working remotely from Cordoba, Argentina. Currently i find myself working on getting more experience in the IT world and gathering the best tools to my stack  
   
-
+ 
  **✨Some of my goals this year are:✨**
 
 - Continue to learn and train my frontend dev skills.
@@ -21,11 +23,10 @@
 
 - Find a job that relates to me and my design aspirations.
 
--Teamwork – learn to connect and work with others to achieve a set task. Meet new people with whom i can learn and share all experiences and skills with.	
+- Teamwork – learn to connect and work with others to achieve a set task. Meet new people with whom i can learn and share all experiences and skills with.	
 
 - ❓ Ask me about anything related to PERN stack and related technologies  
   
-
 - 😜 Fun fact: I ❤️ 🐶s & traveling to new places   
   
   
